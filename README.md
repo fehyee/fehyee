@@ -2,7 +2,7 @@
 I Build Software Applications and Machine Learning Models 
 
 - 📫 Send me an email at arogundaderuth0@gmail.com
-- 💞️ I’m looking to collaborate or hire...
+- 💞️ I’m looking to collaborate or get hired...
 
 <!---
 fehyee/fehyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
