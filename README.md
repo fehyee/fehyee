@@ -1,5 +1,5 @@
 # Hi👋, I’m Ruth Arogundade
-I Build Software Applications and Machine Learning Models 
+I collect, clean, analyze and interepret data to provide actionable insights.
 
 - 📫 Send me an email at arogundaderuth0@gmail.com
 - 💞️ I’m looking to collaborate or get hired...
